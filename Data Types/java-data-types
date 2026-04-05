@@ -1,0 +1,138 @@
+# 📘 Day 1: Data Types in Java❗
+🚀 Types of Data Types
+🚀 Primitive Data Types
+
+---
+
+Types of Data Types
+
+In Java, data types are mainly categorized into two types:
+
+* 🔹 Primitive Data Types
+* 🔹 Non-Primitive Data Types (More complex and refer to objects)
+
+--------------------------------------------------------------------------------
+
+➡️ Primitive Data Types
+
+Java has 8 primitive data types:
+
+1️⃣ Boolean
+ 🔹 Integer Types:
+
+2️⃣ Byte
+3️⃣ Short
+4️⃣ Int
+5️⃣ Long
+
+ 🔹 Floating-Point Types:
+
+6️⃣ Float
+7️⃣ Double
+8️⃣ Char
+
+-----------------------------------------------------------------
+
+✅ Integer Data Types (Detailed)
+
+⚫ Byte
+▪️ Size: 8 bits
+▪️ Range: -128 to 127
+▪️ Default value: 0
+
+
+⚫ Short
+▪️ Size: 16 bits
+▪️ Range: -32,768 to 32,767
+▪️ Default value: 0
+
+
+⚫ Int
+▪️ Size: 32 bits
+▪️ Range: -2,147,483,648 to 2,147,483,647
+▪️ Default value: 0
+
+
+⚫ Long
+▪️ Size: 64 bits
+▪️ Range: -2⁶³ to 2⁶³ - 1
+▪️ Default value: 0
+
+
+## 🚀 Summary
+
+* Java provides 8 primitive data types
+* Integer types are used to store whole numbers
+* Each type has a different size and range
+* Choosing the right data type helps in memory optimization and performance
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+➡️ What are Non-Primitive Data Types?
+
+Non-Primitive Data Types are more complex data types in Java that:
+
+* Do not store actual values directly
+* Store references (memory addresses)
+* Are created using classes, arrays, or interfaces
+
+
+➡️ Types of Non-Primitive Data Types
+
+1. String
+  * Used to store a sequence of characters
+  * Example: String name = "Diksha";
+
+
+2. Arrays
+   * Used to store multiple values of the same type
+   * Example: int[] numbers = {1, 2, 3, 4, 5};
+
+
+3. Class
+   * Blueprint to create objects
+   * Example:
+             class Student {
+                              int id;
+                              String name;
+                           }
+
+4. Object
+   * Instance of a class
+   * Example: Student s1 = new Student();
+
+
+5. Interface
+   * Used to achieve abstraction
+   * Contains only method declarations (by default)
+
+
+✅ Key Features
+
+🔸 Can be null
+🔸 Created using ´new` keyword (except String sometimes)
+🔸 Stored in heap memory
+🔸 Can call methods
+🔸 Size is not fixed
+
+
+🔍 Primitive vs Non-Primitive
+
+| Feature | Primitive  | Non-Primitive |
+| ------- | ---------- | ------------- |
+| Stores  | Value      | Reference     |
+| Size    | Fixed      | Not fixed     |
+| Memory  | Stack      | Heap          |
+| Example | int, float | String, Array |
+
+
+🚀 Summary
+
+Non-Primitive types are reference-based
+Used to handle complex data
+Includes String, Array, Class, Object, Interface
+Essential for OOP concepts
+
+
+
+
