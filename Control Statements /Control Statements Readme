@@ -1,0 +1,71 @@
+# 📘 Day 2: Control Statements in Java ❗
+
+🚀 Decision Making using Control Statements
+🚀 `if`, `if-else`, `else-if`
+
+
+➡️ What are Control Statements?
+
+Control statements are used to control the flow of execution in a program based on conditions.
+👉 They help in:
+* Making decisions
+* Executing specific blocks of code
+* Handling different scenarios
+
+------------------------------------------------------------------------------------------------------
+
+➡️ Types of Control Statements
+
+🔹 1. `if` Statement
+
+* Executes a block of code only if the condition is true
+            if (condition) {
+                                // code executes if condition is true
+                          }
+
+
+
+🔹 2. `if-else` Statement
+
+* Executes one block if condition is true, otherwise another block
+              if (condition) {
+                  // true block
+              } else {
+                  // false block
+              }
+
+
+
+🔹 3. `else-if` Ladder
+
+* Used when multiple conditions need to be checked
+
+            if (condition1) {
+                // block 1
+            } else if (condition2) {
+                // block 2
+            } else {
+                // default block
+            }
+
+
+------------------------------------------------------------------------------------
+
+🧠 Key Points
+
+* Conditions must return **true or false**
+* `if` can exist alone
+* `else` cannot exist without `if`
+* `else-if` is used for multiple conditions
+* Execution stops once a condition is matched
+
+
+
+🚀 Summary
+
+* Control statements help in **decision making**
+* `if` → single condition
+* `if-else` → two conditions
+* `else-if` → multiple conditions
+* Widely used in **real-world applications**
+
