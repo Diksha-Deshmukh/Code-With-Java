@@ -1,0 +1,123 @@
+📘 Day 3: Operators in Java ❗
+
+ 🚀 Arithmetic Operators
+ 🚀 Relational Operators
+ 🚀 Logical Operators
+ 🚀 Assignment Operators
+ 🚀 Unary Operators
+ 🚀 Ternary Operator
+
+
+
+➡️ What are Operators?
+
+Operators are symbols used to perform operations on variables and values.
+
+👉 They help in:
+* Performing calculations
+* Comparing values
+* Making decisions
+* Updating variables
+
+
+➡️ Types of Operators in Java
+
+🔹 1. Arithmetic Operators
+
+Used for **mathematical calculations**
+
+| Operator | Description    |
+| -------- | -------------- |
+| `+`      | Addition       |
+| `-`      | Subtraction    |
+| `*`      | Multiplication |
+| `/`      | Division       |
+| `%`      | Modulus        |
+
+
+
+🔹 2. Relational Operators
+
+Used to compare two values
+
+| Operator | Description           |
+| -------- | --------------------- |
+| `==`     | Equal to              |
+| `!=`     | Not equal             |
+| `>`      | Greater than          |
+| `<`      | Less than             |
+| `>=`     | Greater than or equal |
+| `<=`     | Less than or equal    |
+
+
+
+🔹 3. Logical Operators
+
+Used to combine multiple conditions
+
+| Operator | Description |   |    |
+| -------- | ----------- | - | -- |
+| `&&`     | AND         |   |    |
+| `        |             | ` | OR |
+| `!`      | NOT         |   |    |
+
+
+
+🔹 4. Assignment Operators
+
+Used to assign or update values
+
+| Operator | Description         |
+| -------- | ------------------- |
+| `=`      | Assign              |
+| `+=`     | Add and assign      |
+| `-=`     | Subtract and assign |
+| `*=`     | Multiply and assign |
+| `/=`     | Divide and assign   |
+
+
+
+🔹 5. Unary Operators
+
+Used with single operand
+
+| Operator | Description |
+| -------- | ----------- |
+| `++`     | Increment   |
+| `--`     | Decrement   |
+
+
+
+## 🔹 6. Ternary Operator
+
+Short form of `if-else`
+Syntax: condition ? value1 : value2;
+
+
+
+🧠 Key Points
+
+* Operators simplify coding and logic building
+* Used in almost every Java program
+* Ternary operator helps write clean and short code
+* Logical operators are essential for decision making
+
+
+
+🚀 Real-World Usage
+
+Operators are used in:
+* 🛒 Billing systems
+* 🏦 Banking applications
+* 🎓 Grading systems
+* 🚗 Traffic systems
+
+
+
+📌 Summary
+
+* Java provides multiple operators for different purposes
+* Each operator type solves a specific problem
+* Combining operators helps build real-world applications
+
+
